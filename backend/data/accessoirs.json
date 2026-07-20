@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Wyze Removable Battery Pack",
+    "description": "Pack a punch with a replacement 6200mAh rechargeable battery",
+    "image": "/images/accessoirs/Wyze_Removable_Battery_Pack.png",
+    "learnMoreUrl": "#",
+    "orginialPrice": 22.99
+  },
+  {
+    "id": 2,
+    "title": "Wyze Outdoor Power Adapter",
+    "description": "Ready for rain, snow, or shine. IP67 weather-resistant, so you",
+    "learnMoreUrl": "#",
+    "image": "/images/accessoirs/Wyze_Outdoor_Power_Adapter.png",
+    "orginialPrice": 18.98
+  },
+  {
+    "id": 3,
+    "title": "Wyze MicroSD Card (256GB)",
+    "description": "Unlock continuous recording and time lapses for Wyze Cams with",
+    "learnMoreUrl": "#",
+    "image": "/images/accessoirs/MicroSD_Card.png",
+    "orginialPrice": 41.96
+  },
+  {
+    "id": 4,
+    "title": "Wyze Cam v4 Skins by dBrand (Skin Only)",
+    "description": "Some Wyze Cams are comfortable in their own skin. Some",
+    "learnMoreUrl": "#",
+    "image": "/images/accessoirs/Wyze_Cam_v4_Skins.png",
+    "orginialPrice": 11.98
+  },
+  {
+    "id": 5,
+    "title": "Wyze Universal Wi-Fi Chime",
+    "description": "Easily set up your home's doorbell with the Wyze Universal",
+    "learnMoreUrl": "#",
+    "image": "/images/accessoirs/Wyze_Universal_WiFi_Chime.png",
+    "orginialPrice": 19.98
+  }
+]

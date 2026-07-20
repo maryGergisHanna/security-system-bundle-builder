@@ -1,0 +1,33 @@
+# dependencies
+node_modules/
+
+# production
+dist/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# build
+coverage/
+
+# cache
+.cache/
+
+# vite
+.vite/
+
+# typescript
+*.tsbuildinfo

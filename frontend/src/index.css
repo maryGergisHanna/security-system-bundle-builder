@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --font-gilroy-medium: "Gilroy-Medium";
+  --font-gilroy-semibold: "Gilroy-Semibold";
+  --font-gilroy-regular: "Gilroy-Regular";
+  --font-gilroy-bold: "Gilroy-Bold";
+  --font-gilroy-regular-italic: "Gilroy_Regular_Italic"; 
+  --font-tt-norms-pro: "TT_Norms_Pro;";
+}
+
+@font-face {
+  font-family: "Gilroy-Medium";
+  src: url("./assets/fonts/Gilroy-Medium.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Gilroy-Semibold";
+  src: url("./assets/fonts/Gilroy-Semibold.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Gilroy-Regular";
+  src: url("./assets/fonts/Gilroy-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Gilroy-Bold";
+  src: url("./assets/fonts/gilroy-bold.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Gilroy_Regular_Italic";
+  src: url("./assets/fonts/gilroy-regular-italic.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "TT_Norms_Pro";
+  src: url("./assets/fonts/TT\ Norms\ Pro\ Regular.otf") format("otf");
+}

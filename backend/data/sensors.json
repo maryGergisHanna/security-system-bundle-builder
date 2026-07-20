@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Wyze Sense Motion Sensor",
+    "description": "can detect movement within a 120 degree field of vision within 25 feet.",
+    "image": "/images/sensors/wyze_sense_motion_sensor.png",
+    "orginialPrice": 29.99,
+    "learnMoreUrl": "#"
+  },
+  {
+    "id": 2,
+    "title": "Wyze Sense Hub (Required)",
+    "description": "Each hub can support up to 100 sensors. The range between the hub and sensors is about 500 ft / 152 m.",
+    "image": "/images/sensors/Wyze_Sense_Hub.png",
+    "orginialPrice": 29.92,
+    "priceAfterSale": 0,
+    "priceLabel": "Free",
+    "learnMoreUrl": "#"
+  },
+  {
+    "id": 3,
+    "title": "Wyze Sense Leak Sensor & Probe",
+    "description": "Get notified of leaks. Use with Wyze Sense v2 or ",
+    "image": "/images/sensors/Wyze_Sense_Leak_Sensor.png",
+    "orginialPrice": 29.99,
+    "learnMoreUrl": "#"
+  },
+  {
+    "id": 4,
+    "title": "Wyze Sense Entry Sensor",
+    "description": "Detects when things open/close. Use with Wyze Sense v2 or ",
+    "image": "/images/sensors/Wyze_Sense_Entry_Sensor.png",
+    "orginialPrice": 49.98,
+    "learnMoreUrl": "#"
+  },
+  {
+    "id": 5,
+    "title": "Wyze Sense Climate Sensor",
+    "description": "Wyze Climate Sensor is designed to be used with Wyze ",
+    "image": "/images/sensors/Wyze_Sense_Climate_Sensor.png",
+    "orginialPrice": 89.98,
+    "learnMoreUrl": "#"
+  }
+]
