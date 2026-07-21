@@ -1,7 +1,8 @@
 import type { Product } from "../components/custom-product-card/types";
+import { API_URL } from "../config/api";
 
 export async function getSensors(): Promise<Product[]> {
-  const response = await fetch("http://localhost:5000/api/sensors");
+  const response = await fetch(`${API_URL}/api/sensors`);
 
   if (!response.ok) {
     throw new Error("Failed to fetch sensors");
@@ -11,6 +12,6 @@ export async function getSensors(): Promise<Product[]> {
 
   return sensors.map((sensor: Product) => ({
     ...sensor,
-    image: `http://localhost:5000${sensor.image}`,
+    image: `${API_URL}${sensor.image}`,
   }));
 }
