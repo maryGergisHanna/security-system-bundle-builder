@@ -5,7 +5,7 @@ A production-style React + TypeScript application that allows users to build a c
 This project was built as a frontend take-home assignment with a focus on clean architecture, reusable components, maintainability, and responsive UI.
 
 ## 🚀 Live Demo
-**Frontend:** https://security-system-bundle-builder-8maw0stvc.vercel.app/
+**Frontend:** https://security-system-bundle-builder-liard.vercel.app/
 **Backend API:** https://security-system-bundle-builder.onrender.com
 
 ---
