@@ -31,7 +31,7 @@ export default function CustomProductCard(props: ProductCardProps) {
         lg:flex-col
         w-full
         max-w-90.25
-        h-60
+        h-auto
         lg:w-57
         lg:h-90
         gap-3
